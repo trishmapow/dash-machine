@@ -1,6 +1,7 @@
 ## Garlicoin Machine
 
-Live demo for DASH: [Dash Machine](https://andyfreer.github.io/dash-machine/index.html)
+Live GRLC blocks and tx: [GRLC Machine](http://grlc.info/).
+Ported by members of [GRLC GANG pool](https://grlcgang.com/).
 
 Garlicoin Blockchain Visualizer using Three.js, Cannon.js and Insight API.
 
@@ -28,7 +29,7 @@ Keys: you can press 'q' to manually cycle through quality settings.
 
 ### Goal
 
-Due to the lack of open-source 3D blockchain visualizers we decided to roll one for GRLC.. inspired by Andy Freer's Dash Machine
+Due to the lack of open-source 3D blockchain visualizers we decided to roll one for GRLC... inspired by Andy Freer's Dash Machine
 
 ### Overview
 
